@@ -1,6 +1,6 @@
-version = 0.1
+###version = 0.2
 
-IMPORTANT!!!
-Before first use install pv command and edit source.txt file to your ISO file folder
+#IMPORTANT!!!
+##Before first use install pv command and edit source.txt file to your ISO file folder
 
-To use app simply type 'chmod +x flasher.sh' and then './flasher.sh' inside app folder.
+To use app simply type  './flasher.sh' inside app folder.
